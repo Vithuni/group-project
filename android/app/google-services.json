@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23870101060",
+    "project_id": "kineticlync",
+    "storage_bucket": "kineticlync.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23870101060:android:1902c3079dd1a4861c4e11",
+        "android_client_info": {
+          "package_name": "com.example.kinetic_lync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz0mGzEJOtDPLArVH2ilYvoOxARdQzMSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
